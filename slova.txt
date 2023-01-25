@@ -8,3 +8,4 @@ kolotoč
 nebe
 auto
 autobus
+letadlo
