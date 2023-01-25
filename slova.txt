@@ -5,3 +5,6 @@ kolo
 čokoláda
 ananas
 kolotoč
+nebe
+auto
+autobus
