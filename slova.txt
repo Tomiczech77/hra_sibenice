@@ -9,3 +9,4 @@ nebe
 auto
 autobus
 letadlo
+programátor
